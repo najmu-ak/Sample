@@ -2,8 +2,9 @@ h1{
     margin: 10%;
     text-align: center;
     padding: 5%;
-    color:blue;
+    color:black;
     border: 5px;
     border-style: dotted;
-    border-color: blue;
+    border-color: black;
+    
 }
