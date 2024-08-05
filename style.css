@@ -10,8 +10,20 @@ h1{
 }
 
 p{
-    color: brown;
-    margin-left: 10%;
-    padding-left: 5%;
+    color: black;
+    font-size: larger;
+    text-align: left;
     
+}
+
+button{
+    margin: 5px;
+    color: white;
+    background-color: skyblue;
+    cursor: pointer;
+    font-size: larger;
+    border: 5%;
+    border-radius: 15%;
+    border-color: aqua;
+
 }
